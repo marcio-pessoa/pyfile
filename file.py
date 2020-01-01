@@ -20,8 +20,9 @@ class File:
     description:
     """
 
+    __version__ = 0.04
+
     def __init__(self):
-        self.version = 0.04
         self.data = None
 
     def load(self, file, kind):

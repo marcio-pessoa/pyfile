@@ -1,4 +1,4 @@
-# Timer
+# File
 
 ## Change log
 All notable changes to this project will be documented here.
@@ -8,7 +8,7 @@ All notable changes to this project will be documented here.
 - Verboseless messages.
 
 ### [0.03] 2018-08-14
-#### added
+#### Added
 - Support to YAML files.
 
 ### [0.02] 2018-07-18
